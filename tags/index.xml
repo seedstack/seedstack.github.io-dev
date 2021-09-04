@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://dev.seedstack.org/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dev.seedstack.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Api</title>
+      <link>https://dev.seedstack.org/tags/api/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://dev.seedstack.org/tags/architecture/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://dev.seedstack.org/tags/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cli</title>
+      <link>https://dev.seedstack.org/tags/cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://dev.seedstack.org/tags/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>https://dev.seedstack.org/tags/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://dev.seedstack.org/tags/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Repository</title>
+      <link>https://dev.seedstack.org/tags/content-repository/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/content-repository/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Driven Design</title>
+      <link>https://dev.seedstack.org/tags/domain-driven-design/</link>
+      <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/domain-driven-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essentials</title>
+      <link>https://dev.seedstack.org/tags/essentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/essentials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injection</title>
+      <link>https://dev.seedstack.org/tags/injection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfaces</title>
+      <link>https://dev.seedstack.org/tags/interfaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jcr</title>
+      <link>https://dev.seedstack.org/tags/jcr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/jcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logging</title>
+      <link>https://dev.seedstack.org/tags/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://dev.seedstack.org/tags/maven/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro Service</title>
+      <link>https://dev.seedstack.org/tags/micro-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/micro-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://dev.seedstack.org/tags/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistence</title>
+      <link>https://dev.seedstack.org/tags/persistence/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/persistence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://dev.seedstack.org/tags/release/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>https://dev.seedstack.org/tags/rest/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://dev.seedstack.org/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://dev.seedstack.org/tags/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transactions</title>
+      <link>https://dev.seedstack.org/tags/transactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://dev.seedstack.org/tags/troubleshooting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://dev.seedstack.org/tags/tutorial/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation</title>
+      <link>https://dev.seedstack.org/tags/validation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://dev.seedstack.org/tags/web/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.seedstack.org/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
